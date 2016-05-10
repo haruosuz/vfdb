@@ -5,7 +5,8 @@ set -euo pipefail
 mkdir -p ./{data/$(date +%F),analysis/$(date +%F)}
 
 # Downloading scripts
-wget -P scripts/ http://kirill-kryukov.com/study/tools/blast-parser/blast_parser_1.1.5.zip
+#wget -P scripts/ http://kirill-kryukov.com/study/tools/blast-parser/blast_parser_1.1.5.zip
+curl http://kirill-kryukov.com/study/tools/blast-parser/blast_parser_1.1.5.zip > scripts/blast_parser_1.1.5.zip
 unzip scripts/blast_parser_1.1.5.zip -d scripts
 
 # Downloading data
