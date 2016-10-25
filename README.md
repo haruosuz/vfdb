@@ -1,7 +1,7 @@
 ----------
 
 Haruo Suzuki  
-Last Update: 2016-01-10  
+Last Update: 2016-10-25
 
 ----------
 
@@ -66,8 +66,8 @@ Inspecting and Manipulating Text Data with Unix Tools
 
 ## References
 - [VFDB: Virulence Factors Database](http://www.mgc.ac.cn/VFs/)
- - [Nucleic Acids Res. 2012 Jan;40(Database issue):D641-5. VFDB 2012 update: toward the genetic diversity and molecular evolution of bacterial virulence factors.](http://www.ncbi.nlm.nih.gov/pubmed/22067448)
- - [Nucleic Acids Res. 2005 Jan 1;33(Database issue):D325-8. VFDB: a reference database for bacterial virulence factors.](http://www.ncbi.nlm.nih.gov/pubmed/15608208)
+ - [VFDB - Data download](http://www.mgc.ac.cn/VFs/download.htm)
+ - [NEW INTERFACE](http://www.mgc.ac.cn/cgi-bin/VFs/jsif/main.cgi)
 
 - [BLAST: eTutorials.org](http://etutorials.org/Misc/blast/)
 
